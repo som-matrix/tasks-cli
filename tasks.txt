@@ -1,0 +1,4 @@
+buy me a chocolate
+buy me a milk
+✅ run a todo app from CLI
+Buy a fridge
